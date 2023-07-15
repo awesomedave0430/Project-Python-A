@@ -6,6 +6,8 @@ Our project also strives to empower individuals, as knowledge about the relation
 
 #Our goal is to use the data from the data sets we have identified and code graphs/models which clearly and effectively display our information. We will code correlation graphs, and lines of best fits, and use the code learned to label our graphs (axis). 
 
+#We are expecting to create a graph model which is easily digestible by the general public, informing and empowering them regarding their geographical location and their projected life expectancy. Our results will most likely show a positive correlation between the increase in real estate/property value and the increase in general life expectancy. This will touch on how computer science can be used to discuss topics such as health equity, disparities, and geo-political mapping. 
+
 
 
 
